@@ -221,7 +221,7 @@ dependencies:
 - ujson
 - intake-thredds
 - cafaz
-- cdms2
+#- cdms2 no python 3.11 version
 - pygam
 - pysal
 - xmhw
